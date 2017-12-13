@@ -5,7 +5,17 @@ h2 {
 .linkicon {
   width: 30px;
   height: 30px;
-  margin: 5px;
+  margin: 10px;
+}
+
+.linkicon:hover {
+  transform: scale(1.5)
+}
+
+#profile {
+  float: right;
+  /*width: 200px;
+  height: 200px;*/
 }
 .card-text {
   height: 120px;
