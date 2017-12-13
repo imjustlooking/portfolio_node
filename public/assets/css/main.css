@@ -3,12 +3,9 @@ h2 {
 }
 
 .card-text {
-  overflow-y: scroll;
   height: 120px;
 }
 
-/*@import url(//fonts.googleapis.com/css?family=Lato:400,900);
-@import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);*/
 
 .info-card {
     float: left;
@@ -39,7 +36,6 @@ h2 {
 	width: 250px;
 	height: 330px;
 	-webkit-transform: rotateY(-180deg);
-	/*overflow: scroll;*/
 }
 
 .info-card:hover .back {
